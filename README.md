@@ -1,4 +1,5 @@
-# dio-java-basico
-Repositório para guardar todo o conteúdo aprendido no curso
+# Dio_Global_Codigos_Estudo
 
-Primeito Commit do arquivo 
+----------- Conteudo voltado para estudos e revisões de codigos de curso -----------
+
+
