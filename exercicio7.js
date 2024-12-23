@@ -23,5 +23,6 @@ if (TypeShop == 0 ) {
 }
 
 Pagamento(500, 4)
-
-
+Pagamento(1200,1)
+Pagamento(25,2)
+Pagamento(50, 3)
